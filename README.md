@@ -4,4 +4,4 @@ Running Instruction:
 	3. Create an account and login.
 	4. Use Space and Arrows on the keyboard to play.
 
-Please download the ProjectInstruction.pdf to read game detail.
+Please download the Game_Instruction.pdf to read game detail.
