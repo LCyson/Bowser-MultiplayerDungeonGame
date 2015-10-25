@@ -62,7 +62,7 @@ public class LogInGUI extends JFrame{
 		createGUI();
 		addActionListeners();
 		setVisible(true);
-		ConnectServer();
+//		ConnectServer();
 	}
 	
 	public void ConnectServer() {
@@ -78,6 +78,7 @@ public class LogInGUI extends JFrame{
 			br = new BufferedReader(isr);			
 		} catch (IOException ioe) {
 			System.out.println(ioe.getMessage());
+//			System.out.println("Shabi");
 		}
 	}
 	
