@@ -8,4 +8,9 @@ Running Instruction:
 
 	4. Use Space and Arrows on the keyboard to play.
 
+Control:
+	
+	Use upwards, downwards, rightwards and leftwards arrow to move, use space to shoot.
+
+
 Please download the Game_Instruction.pdf to read game details.
